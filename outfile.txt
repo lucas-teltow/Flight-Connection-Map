@@ -1,0 +1,33 @@
+Flight Path 0: Dallas to Houston (Time)
+Dallas -> Houston
+Cost: 101.0 Time: 51
+Dallas -> Austin -> Houston
+Cost: 193.0 Time: 86
+
+
+Flight Path 1: Dallas to Miami (Time)
+Dallas -> Houston -> Miami
+Cost: 221.0 Time: 171
+Dallas -> Austin -> Houston -> Miami
+Cost: 313.0 Time: 206
+Dallas -> Austin -> Chicago -> Miami
+Cost: 342.0 Time: 339
+
+
+Flight Path 2: Chicago to Dallas (Cost)
+Error, not a valid request!
+
+
+Flight Path 3: Chicago to St.Louis (Cost)
+The city St.Louis is not in the graph.
+
+
+Flight Path 4: St.Louis to Austin (Cost)
+The city St.Louis is not in the graph.
+
+
+Flight Path 5: Houston to Houston (Time)
+You are already in the city!
+
+
+
